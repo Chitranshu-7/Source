@@ -1,0 +1,22 @@
+{
+  "name": "hello",
+  "version": "1.0.1",
+  "description": "NOne",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon hello.js",
+    "chinu": "nodemon chinu.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "install": "^0.13.0",
+    "nodemailer": "^6.9.3",
+    "nodemon": "^2.0.22",
+    "otp-generator": "^4.0.1",
+    "require": "^2.4.20"
+  }
+}
